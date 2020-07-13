@@ -21,6 +21,30 @@ Linked List - _Worksheet Examples_
 #### Group Challenges 
 <iframe src="https://trinket.io/embed/python/fab78846f8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
+Output before:
+```
+(None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
+
+
+After deleting the tail "Number 6".
+None -> 1 -> 4.5 -> "Max" -> None
+```
+This is how the output should be:
+```
+(None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
+
+1
+4.5
+Max
+6
+
+After deleting the tail "Number 6".
+None -> 1 -> 4.5 -> "Max" -> None
+
+1
+4.5
+Max
+```
 #### Try now to do Big-O analysis for each method:
 ```
 Add a comment like this:
