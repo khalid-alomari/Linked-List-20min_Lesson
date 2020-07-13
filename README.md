@@ -55,7 +55,8 @@ Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Singly vs Doubly linked List
-Starter code
+<a target="_blank" href="DoublyLinkedList.md">Starter code</a>
+
 ```python
 i = 0
 Later!!! 
