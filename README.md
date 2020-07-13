@@ -1,7 +1,7 @@
 # Linked List - Make School
 <img src="logo-grey.png" width = "25%">
 
-Linked List 20 min Lesson
+Linked List - _Worksheet Examples_
 
 <a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Link to the site</a>
 
