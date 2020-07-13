@@ -1,5 +1,5 @@
 # Linked List - Make School
-<img src="logo-icononly.png"  width = "10%">
+<img src="logo-grey.png" width = "25%">
 
 Linked List 20 min Lesson
 
@@ -24,5 +24,4 @@ Summary, Q&A, plus assign homework.
 
 ### Homework
 Prepare to study & remember the approach of the Doubly linked List, before the instructor explain it in the next session.
-<img src="logo-grey.png">
-
+<img src="logo-icononly.png"  width = "10%">
