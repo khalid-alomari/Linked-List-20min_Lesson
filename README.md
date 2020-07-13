@@ -45,13 +45,13 @@ None -> 1 -> 4.5 -> "Max" -> None
 4.5
 Max
 ```
-#### Try now to do Big-O analysis for each method:
+#### Try now to the do Big-O analysis for each method:
 
-Add a comment like this above each method, for instance!:
+Add a comment __above__ each method, for instance!:
 ```python
 # O(n) time | O(1) space 
 ```
-Solution:
+Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Singly vs Doubly linked List
