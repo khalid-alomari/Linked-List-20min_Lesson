@@ -7,7 +7,7 @@ Linked List 20 min Lesson
 
 ### Worksheet examples:
 #### Single node:
-<iframe height="400px" width="100%" src="https://repl.it/@khalido394/ThunderousKnobbyPhysics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="600px" width="80%" src="https://repl.it/@khalido394/ThunderousKnobbyPhysics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 #### Joining nodes in the linked list:
@@ -15,7 +15,7 @@ Linked List 20 min Lesson
 
 
 #### LinkedList methods:
-<iframe height="400px" width="100%" src="https://repl.it/@khalido394/IllustriousMurkyMainframe?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+<iframe height="600px" width="80%" src="https://repl.it/@khalido394/IllustriousMurkyMainframe?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
 ## Singly vs Doubly linked List
