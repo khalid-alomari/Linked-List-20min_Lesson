@@ -56,6 +56,7 @@ Solution without the analysis:
 
 ## Singly vs Doubly linked List
 <a target="_blank" href="DoublyLinkedList.md">Starter code</a>
+<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code 2</a>
 
 ```python
 i = 0
