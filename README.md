@@ -45,7 +45,7 @@ None -> 1 -> 4.5 -> "Max" -> None
 4.5
 Max
 ```
-#### Try now to the do Big-O analysis for each method:
+#### Try now to do Big-O analysis for each method:
 
 In the LinkedList class, add a comment __above__ each method of its Big-O, for instance!:
 ```python
@@ -55,12 +55,10 @@ Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Singly vs Doubly linked List
-<a target="_blank" href="DoublyLinkedList.md">Starter code</a>
-<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code 2</a>
+<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code</a>
 
 ```python
-i = 0
-Later!!! 
+We will discuss it and solve it Later in the Next session!!! 
 ```
 <a target="_blank" href="https://docs.google.com/document/d/1AKECFN7k77SWyyk0fMSTDgJOY6qwQonreyg8DQr861E/edit?usp=sharing">Solution</a>
 
@@ -68,6 +66,6 @@ Later!!!
 ## Circle Back & Summary
 Summary, Q&A, plus assign homework.
 ### Homework
-Prepare to study & remember the approach of the Doubly linked List, before the instructor explain it in the next session.
+Prepare to study & remember the Doubly Linked List's approach from the slides before the instructor explains it in the next session.
 
 <img src="logo-icononly.png"  width = "10%">
