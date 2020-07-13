@@ -10,7 +10,7 @@ Linked List - _Worksheet Examples_
 <iframe height="600px" width="80%" src="https://repl.it/@khalido394/ThunderousKnobbyPhysics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
-#### Joining nodes in the linked list:
+#### Joining nodes in the Linked List:
 <iframe height="600px" width="80%" src="https://repl.it/repls/SimpleSnoopyDrupal?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
 
@@ -54,7 +54,7 @@ In the LinkedList class, add a comment __above__ each method of its Big-O, for i
 Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-## Singly vs Doubly linked List
+## Singly vs. Doubly linked List
 <a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code</a>
 
 ```python
