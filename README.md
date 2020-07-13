@@ -21,7 +21,7 @@ Linked List - _Worksheet Examples_
 #### Group Challenges 
 <iframe src="https://trinket.io/embed/python/fab78846f8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-Output before:
+Output __before__:
 ```
 (None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
 
@@ -29,7 +29,7 @@ Output before:
 After deleting the tail "Number 6".
 None -> 1 -> 4.5 -> "Max" -> None
 ```
-This is how the output should be:
+_This is how the output should be:_
 ```
 (None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
 
@@ -46,9 +46,10 @@ None -> 1 -> 4.5 -> "Max" -> None
 Max
 ```
 #### Try now to do Big-O analysis for each method:
-```
-Add a comment like this:
-# O(n) time | O(1) space for example!
+
+Add a comment like this above each method, for instance!:
+```python
+# O(n) time | O(1) space 
 ```
 Solution:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
