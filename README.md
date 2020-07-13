@@ -10,7 +10,8 @@ Worksheet example:
 
 ## Singly vs Doubly linked List
 Starter code
-```
+```python
+i = 0
 Later!!! 
 ```
 <a target="_blank" href="https://docs.google.com/document/d/1AKECFN7k77SWyyk0fMSTDgJOY6qwQonreyg8DQr861E/edit?usp=sharing">Solution</a>
