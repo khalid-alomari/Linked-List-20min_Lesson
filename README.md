@@ -17,4 +17,4 @@ Starter code
 Summary, Q&A, plus assign homework.
 
 ### Homework
-Prepare to study & remember the approach of the Doubly linked List, before the instructor explain it with the code in the next session.
+Prepare to study & remember the approach of the Doubly linked List, before the instructor explain it in the next session.
