@@ -1,4 +1,6 @@
 # Linked List - Make School
+<img src="logo-icononly.png"  width = "80%">
+
 Linked List 20 min Lesson
 
 <a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Link to the site</a>
