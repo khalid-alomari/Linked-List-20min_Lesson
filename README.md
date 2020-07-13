@@ -9,8 +9,10 @@ Linked List 20 min Lesson
 Single node:
 <iframe height="400px" width="100%" src="https://repl.it/@khalido394/ThunderousKnobbyPhysics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
+
 Joining nodes in the linked list:
 <iframe height="600px" width="80%" src="https://repl.it/repls/SimpleSnoopyDrupal?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 
 LinkedList methods:
 <iframe height="400px" width="100%" src="https://repl.it/@khalido394/IllustriousMurkyMainframe?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
