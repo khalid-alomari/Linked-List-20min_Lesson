@@ -23,4 +23,5 @@ Later!!!
 Summary, Q&A, plus assign homework.
 ### Homework
 Prepare to study & remember the approach of the Doubly linked List, before the instructor explain it in the next session.
+
 <img src="logo-icononly.png"  width = "10%">
