@@ -23,9 +23,13 @@ Outline:<br>
 |
  --> <a href="#try-now-to-do-big-o-analysis-for-each-method">Big-O analysis</a>
 <br>
+Continue to the <a href="#complete-slides---continue">slide</a> first!
+<br>
 <a href="#singly-vs-doubly-linked-list">Singly vs. Doubly LL</a>
-
-
+<br>
+<a href="#circle-back--summary">Circle back & Summary</a>
+<br>
+<a href="#homework">Homework</a>
 
 ### Worksheet examples:
 #### Single node:
