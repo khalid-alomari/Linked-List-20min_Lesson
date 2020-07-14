@@ -80,7 +80,6 @@ In the LinkedList class, add a comment __above__ each method of its Big-O, for i
 Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
-https://gitpitch.com/khalido394/in-60-seconds#/6
 ## Complete slides - <a target="_blank" href="https://gitpitch.com/khalido394/in-60-seconds#/9">Continue</a>!
 
 ## Singly vs. Doubly linked List
