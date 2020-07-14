@@ -73,7 +73,7 @@ Max
 ```
 #### Try now to do Big-O analysis for each method:
 
-In the LinkedList class, add a comment __above__ each method of its Big-O, for instance!:
+In the `LinkedList` class, add a comment __above__ each method of its Big-O, for instance!:
 ```python
 # O(n) time | O(1) space 
 ```
