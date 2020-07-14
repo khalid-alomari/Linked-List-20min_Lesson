@@ -1,5 +1,6 @@
 # Linked List - Make School
-<img src="logo-grey.png" width = "25%">
+<a target="_blank" href="https://www.makeschool.com/"><img src="logo-grey.png" width = "25%"></a>
+
 
 Linked List - _Worksheet Examples_
 
@@ -68,4 +69,4 @@ Summary, Q&A, plus assign homework.
 ### Homework
 Prepare to study & remember the Doubly Linked List's approach from the slides before the instructor explains it in the next session.
 
-<img src="logo-icononly.png"  width = "10%">
+<a target="_blank" href="https://www.makeschool.com/"><img src="logo-icononly.png"  width = "10%"></a>
