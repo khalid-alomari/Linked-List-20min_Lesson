@@ -55,12 +55,12 @@ Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 ## Singly vs. Doubly linked List
-<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code</a>
+Take a look at the <a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code</a>!
 
 ```python
 We will discuss it and solve it Later in the Next session!!! 
 ```
-<a target="_blank" href="https://docs.google.com/document/d/1AKECFN7k77SWyyk0fMSTDgJOY6qwQonreyg8DQr861E/edit?usp=sharing">Solution</a>
+<a target="_blank" href="https://docs.google.com/document/d/1AKECFN7k77SWyyk0fMSTDgJOY6qwQonreyg8DQr861E/edit?usp=sharing"><em>Solution</em></a>
 
 
 ## Circle Back & Summary
