@@ -6,6 +6,11 @@ Linked List - _Worksheet Examples_
 
 <a target="_blank" href="https://khalido394.github.io/Linked-List-20min_Lesson/">Link to the site</a>
 
+Outline: 
+<a target="_blank" href="#single-node">single-node</a>
+
+
+
 ### Worksheet examples:
 #### Single node:
 <iframe height="600px" width="80%" src="https://repl.it/@khalido394/ThunderousKnobbyPhysics?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
