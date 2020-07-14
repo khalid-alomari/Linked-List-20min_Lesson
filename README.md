@@ -77,7 +77,7 @@ Solution without the analysis:
 <iframe src="https://trinket.io/embed/python/c2a3160d10" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 https://gitpitch.com/khalido394/in-60-seconds#/6
-## Complete slides <a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Continue</a>!
+## Complete slides -<a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md"> Continue</a>!
 
 ## Singly vs. Doubly linked List
 Take a look at the <a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code</a>!
