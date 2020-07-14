@@ -86,7 +86,7 @@ Solution without the analysis:
 Take a look at the <a target="_blank" href="https://github.com/khalido394/Linked-List-20min_Lesson/blob/master/DoublyLinkedList.md">Starter code</a>!
 
 ```python
-We will discuss it and solve it Later in the Next session!!! 
+We will discuss it and solve it Later, in the Next session!!! 
 ```
 <a target="_blank" href="https://docs.google.com/document/d/1AKECFN7k77SWyyk0fMSTDgJOY6qwQonreyg8DQr861E/edit?usp=sharing"><em>Solution</em></a>
 
