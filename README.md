@@ -52,7 +52,7 @@ Output __before__:
 (None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
 
 
-After deleting the tail "Number 6".
+After deleting the tail "Number 5".
 None -> 1 -> 4.5 -> "Max" -> None
 ```
 _This is how the output should be:_
@@ -64,7 +64,7 @@ _This is how the output should be:_
 Max
 6
 
-After deleting the tail "Number 6".
+After deleting the tail "Number 5".
 None -> 1 -> 4.5 -> "Max" -> None
 
 1
