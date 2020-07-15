@@ -49,22 +49,22 @@ Continue to the <a href="#complete-slides---continue">slide</a> first!
 
 Output __before__:
 ```
-(None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
+(None, ' -> 1 -> 4.5 -> "Max" -> 6 ->', None)
 
 
-After deleting the tail "Number 5".
+After deleting the tail "Number 6".
 None -> 1 -> 4.5 -> "Max" -> None
 ```
 _This is how the output should be:_
 ```
-(None, ' -> 1 -> 4.5 -> "Max" -> 5 ->', None)
+(None, ' -> 1 -> 4.5 -> "Max" -> 6 ->', None)
 
 1
 4.5
 Max
 6
 
-After deleting the tail "Number 5".
+After deleting the tail "Number 6".
 None -> 1 -> 4.5 -> "Max" -> None
 
 1
