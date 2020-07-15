@@ -48,14 +48,14 @@ Continue to the <a href="#complete-slides---continue">slide</a> first!
 <iframe src="https://trinket.io/embed/python/fab78846f8" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 Output __before__:
-```python
+```
 ('1 -> 4.5 -> "Max" -> 6 ->', None)
 
 
 After deleting the tail "Number 6".
 1 -> 4.5 -> "Max" -> None
 ```
-_This is how the output should be:_
+_This is how the `output` should be:_
 ```
 ('1 -> 4.5 -> "Max" -> 6 ->', None)
 
