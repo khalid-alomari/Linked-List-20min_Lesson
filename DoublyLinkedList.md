@@ -1,5 +1,5 @@
 ## Doubly Linked List Starter Code
-#### Don't worry; we will solve this in the class together!
+#### Don't worry; we will solve this in the `DoublyLinkedList` class together!
 ```python
 # This is an input class. Do not edit.
 class Node:
