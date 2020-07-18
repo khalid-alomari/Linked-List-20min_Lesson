@@ -94,6 +94,6 @@ We will discuss it and solve it Later, in the Next session!!!
 ## Circle Back & Summary
 Summary, Q&A, plus assign homework.
 ### Homework
-Prepare to study & remember the Doubly Linked List's approach from the slides before the instructor explains it in the next session.
+Prepare to study & remember the `Doubly Linked List's` approach from the slides before the instructor explains it in the next session.
 
 <a target="_blank" href="https://www.makeschool.com/"><img src="logo-icononly.png"  width = "10%"></a>
