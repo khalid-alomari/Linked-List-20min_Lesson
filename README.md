@@ -93,6 +93,7 @@ We will discuss it and solve it Later, in the Next session!!!
 
 ## Circle Back & Summary
 Summary, Q&A, plus assign homework.
+TO DO: Write a small summary!
 ### Homework
 Prepare to study & remember the `Doubly Linked List's` approach from the slides before the instructor explains it in the next session.
 
